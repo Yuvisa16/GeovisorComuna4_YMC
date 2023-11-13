@@ -12,6 +12,6 @@ wsm y wfs y otras son del POT del 2014 que se encuentra alojado en el Geovisor d
 Objetivos del Taller
 
 Familiarización con el Geovisor: 
-Aprender a construir una Herramienta WB de visualizacion y analisis espacial.
+Aprender a construir una Herramienta WEB de visualizacion y analisis espacial.
 Utilizar el Geovisor para realizar análisis espaciales y comprender mejor la dinámica de la Comuna 4.
 hacer uso de todas las herramientas de construcion web para el analisis y visualizacion espacial.
